@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1>reald world is diffrent from what you are expected</h1>
+<p>Have you ever think why you were born or why everyone have to study , get a degree and devote themselve to scociety?</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uO_j23R18cM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
